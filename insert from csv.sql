@@ -1,0 +1,1 @@
+INSERT INTO smlogs FORMAT CSV < 'C:\Users\Admin\Downloads\Telegram Desktop\sm_test_data.csv'
